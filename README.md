@@ -19,6 +19,7 @@
 - Driving **agentic AI development** at enterprise scale — Claude Code, GitHub Copilot, autonomous agents, MCP, Spec-Driven workflows.
 - Microsoft Certified: **AI Transformation Leader** · **GitHub Copilot (GH-300)** · DevOps Engineer Expert · Azure Developer Associate.
 - Enterprise work: LaLiga/Microsoft, ENEL, Ferrovial, Gestagua.
+- Technical trainer: **922 student ratings, 4/5** on [OpenWebinars](https://openwebinars.net/profesores/cesar-diaz/).
 
 ---
 
