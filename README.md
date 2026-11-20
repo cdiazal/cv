@@ -17,9 +17,22 @@
 
 - 20+ years designing and evolving complex enterprise systems on .NET & Azure.
 - Driving **agentic AI development** at enterprise scale — Claude Code, GitHub Copilot, autonomous agents, MCP, Spec-Driven workflows.
-- Microsoft Certified: **AI Transformation Leader** · **GitHub Copilot (GH-300)** · DevOps Engineer Expert · Azure Developer Associate.
 - Enterprise work: LaLiga/Microsoft, ENEL, Ferrovial, Gestagua.
 - Technical trainer: **922 student ratings, 4/5** on [OpenWebinars](https://openwebinars.net/profesores/cesar-diaz/).
+
+## 📜 Certifications
+
+- Microsoft Certified: **Agentic AI Business Solutions Architect Expert** (2026)
+- Microsoft Certified: **Azure AI Apps and Agents Developer Associate** (2026)
+- Microsoft Certified: **AI Transformation Leader** (2026)
+- **GitHub Copilot** — GH-300 (2026)
+- Microsoft Certified: **DevOps Engineer Expert**
+- **AZ-400**: Designing and Implementing Microsoft DevOps Solutions
+- Microsoft Certified: **Azure Developer Associate**
+- Microsoft Certified: **Azure Fundamentals**
+- **Distributed Systems Design Fundamentals**
+
+All Microsoft credentials are verifiable on [Microsoft Learn](https://learn.microsoft.com/en-us/users/cesardiazalcolea-7997/).
 
 ---
 
