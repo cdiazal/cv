@@ -17,6 +17,7 @@
 
 - 20+ years designing and evolving complex enterprise systems on .NET & Azure.
 - Driving **agentic AI development** at enterprise scale — Claude Code, GitHub Copilot, autonomous agents, MCP, Spec-Driven workflows.
+- **Observability and performance gates** — OpenTelemetry, Application Insights, Azure Monitor and Grafana for instrumentation, alert rules and dashboards; pipeline load tests with NBomber on .NET services and k6 elsewhere.
 - **Pre-sales** for enterprise bids — target architecture, team composition and effort estimates. Wins across infrastructure, energy and transport & logistics.
 - Enterprise work: LaLiga/Microsoft, ENEL, Ferrovial, Gestagua.
 - Technical trainer: **922 student ratings, 4/5** on [OpenWebinars](https://openwebinars.net/profesores/cesar-diaz/).
