@@ -1,6 +1,6 @@
-# César Díaz Alcolea — CV
+# César Díaz Alcolea | CV
 
-**.NET Architect & Tech Lead** — Agentic AI adoption for enterprise teams (backend, frontend, data & AI) with custom agents, MCP & Spec-Driven workflows. Cloud-native .NET & Azure.
+**.NET Architect & Tech Lead.** Agentic AI adoption for enterprise teams (backend, frontend, data & AI) with custom agents, MCP & Spec-Driven workflows. Cloud-native .NET & Azure.
 
 ## 📄 Get the CV
 
@@ -16,9 +16,9 @@
 ## 🏅 Highlights
 
 - 20+ years designing and evolving complex enterprise systems on .NET & Azure.
-- Driving **agentic AI development** at enterprise scale — Claude Code, GitHub Copilot, autonomous agents, MCP, Spec-Driven workflows.
-- **Observability and performance gates** — OpenTelemetry, Application Insights, Azure Monitor and Grafana for instrumentation, alert rules and dashboards; pipeline load tests with NBomber on .NET services and k6 elsewhere.
-- **Pre-sales** for enterprise bids — target architecture, team composition and effort estimates. Wins across infrastructure, energy and transport & logistics.
+- Driving **agentic AI development** at enterprise scale with Claude Code, GitHub Copilot, autonomous agents, MCP and Spec-Driven workflows.
+- **Observability and performance gates** with OpenTelemetry, Application Insights, Azure Monitor and Grafana for instrumentation, alert rules and dashboards; pipeline load tests with NBomber on .NET services and k6 elsewhere.
+- **Pre-sales** for enterprise bids: target architecture, team composition and effort estimates. Wins across infrastructure, energy and transport & logistics.
 - Enterprise work: LaLiga/Microsoft, ENEL, Ferrovial, Gestagua.
 - Technical trainer: **922 student ratings, 4/5** on [OpenWebinars](https://openwebinars.net/profesores/cesar-diaz/).
 
@@ -27,7 +27,7 @@
 - Microsoft Certified: **Agentic AI Business Solutions Architect Expert** (2026)
 - Microsoft Certified: **Azure AI Apps and Agents Developer Associate** (2026)
 - Microsoft Certified: **AI Transformation Leader** (2026)
-- **GitHub Copilot** — GH-300 (2026)
+- **GitHub Copilot**, GH-300 (2026)
 - Microsoft Certified: **DevOps Engineer Expert**
 - **AZ-400**: Designing and Implementing Microsoft DevOps Solutions
 - Microsoft Certified: **Azure Developer Associate**
